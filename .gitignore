@@ -1,2 +1,4 @@
 */input
 */testinput
+*.swp
+__pycache__
